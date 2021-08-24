@@ -1,0 +1,14 @@
+{
+  "valid_user": {
+    "email":    "contato@taekwonwikia.com.br",
+    "password": "mercador20@@"
+  },
+ 
+  "invalid_user": {
+    "email":          "xpto",
+    "empty_email":    "",
+    "empty_password": "",
+    "password":       "mercador20@@",
+    "wrong_password": "monm"
+  }
+}

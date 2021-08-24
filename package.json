@@ -1,0 +1,19 @@
+{
+  "name": "amazon-cypress",
+  "version": "1.0.0",
+  "description": "amazon web automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "author": "Joe",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.2.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
